@@ -14,7 +14,9 @@ Digital image processing visualizer with multiple analysis tools using Numpy and
 
 ---
 ## [AirControl](https://github.com/mshah0686/AirControl)
-<img src="images/aircontrol.jpg" width="100" height="100"/>Device to integrate air gestures as external input to laptop to increase productivity.
+|||
+| --- | --- |
+|<img src="images/aircontrol.jpg" width="100" height="100"/>|Device to integrate air gestures as external input to laptop to increase productivity.|
 
 ---
 ## [Pokedex](https://github.com/mshah0686/pokedex)

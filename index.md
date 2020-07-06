@@ -13,8 +13,8 @@ Gesture recognition with machine learning on Hexiwear, a wearable IOT device, to
 Digital image processing visualizer with multiple analysis tools using Numpy and Tkinter.<br>
 
 ---
- ## [Air-Control](https://github.com/mshah0686/AirControl) <img align="left" width="100" height="100" src="images/aircontrol.jpg"/>
- Device to integrate air gestures as external input to laptop to increase productivity.<br>
+ ## [Air-Control](https://github.com/mshah0686/AirControl)<br><img align="left" width="100" height="100" src="images/aircontrol.jpg"/>
+ Device to integrate air gestures as external input to laptop to increase productivity.
 
 ---
 ## [Pokedex](https://github.com/mshah0686/pokedex)

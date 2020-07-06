@@ -45,4 +45,4 @@ Improving wind turbines to capture energy at low wind speeds using Venturi effec
 ## [Keyboardless Keyboard](http://example.com/)
 Using accelerometers to create virtual typing experience with BLE communication. <br>
 *International Science Fair Qualifier*<br>
-[VIDEO](https://drive.google.com/file/d/1fZwC75670PF3u-IC0tM1i57zqECTpdxU/view?usp=sharing) | [DATA](images/eyemove/images.pdf) | [REPORT](https://drive.google.com/file/d/1IlpRCeHtpIOetM61K2dKlG159A8ItXoe/view?usp=sharing)<br><br><br>
+[REPORT](images/keyboardlesskeyboard/report.pdf)<br><br><br>

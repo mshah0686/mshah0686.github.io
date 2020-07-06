@@ -7,10 +7,10 @@ Eye controlled wheelchair using electrooculography to provide mobility and quali
 [VIDEO](https://drive.google.com/file/d/1fZwC75670PF3u-IC0tM1i57zqECTpdxU/view?usp=sharing) | [DATA](images/eyemove/images.pdf) | [POSTER](https://drive.google.com/file/d/1IlpRCeHtpIOetM61K2dKlG159A8ItXoe/view?usp=sharing) | [DETAILED REPORT](https://drive.google.com/file/d/1vHkEWxq-VxoYV0PFYkr5b7bq4x1ndeOr/view?usp=sharing)
 
 ---
-<img align="left" style="padding-right:10px" width="175" height="175" src="images/cygnus.png"/><br>
+<img align="left" style="padding-right:10px" width="185" height="185" src="images/cygnus.png"/><br>
 ## [Starfish](https://github.com/autognc/starfish)
 Contribution: Python script to generate synthetic images and truth data on Blender and upload to AWS S3 for deep learning/computervision.<br>
-*[SEEKER](https://sites.utexas.edu/tsl/seeker/) project at Texas Spacecraft Laboratory and NASA*
+*[SEEKER](https://sites.utexas.edu/tsl/seeker/) project at Texas Spacecraft Laboratory with NASA*
 
 
 ---

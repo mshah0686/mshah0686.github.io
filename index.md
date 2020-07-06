@@ -3,12 +3,10 @@
 ## [EyeMove](/sample_page)
 Eye controlled wheelchair using electrooculography to provide mobility and quality of life for patients with paralysis.<br>
 *$20,000 scholarship, First Place and Best in Category at International Science Fair*<br>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 ## [MacMusic Control](https://github.com/mshah0686/MacMusicControl)
 Gesture recognition with machine learning on Hexiwear, a wearable IOT device, to control music.<br>
-<img src="images/macmusiccontrol.gif?=25x25"/>
 
 ---
 ## [ImageProcessor](https://github.com/mshah0686/ImageProcessor)

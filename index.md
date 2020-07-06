@@ -5,17 +5,18 @@ Eye controlled wheelchair using electrooculography to provide mobility and quali
 *$20,000 scholarship, First Place and Best in Category at International Science Fair*<br>
 
 ---
+<img align="left" style="padding-right:10px" width="175" height="175" src="images/macmusiccontrol.png"/><br>
 ## [MacMusic Control](https://github.com/mshah0686/MacMusicControl)
-Gesture recognition with machine learning on Hexiwear, a wearable IOT device, to control music.<br>
+Machine learning for gesture recognition using Hexiwear, a wearable IOT device, to control Spotify music.<br><br><br>
 
 ---
 ## [ImageProcessor](https://github.com/mshah0686/ImageProcessor)
 Digital image processing visualizer with multiple analysis tools using Numpy and Tkinter.<br>
 
 ---
-<img align="left" style="padding-right:10px" width="175" height="175" src="images/aircontrol.gif"/><br>
+<img align="left" style="padding-right:10px" width="175" height="175" src="images/aircontrol.jpg"/><br>
 ## [AirControl](https://github.com/mshah0686/AirControl)
-Device to integrate air gestures as external input to laptop to increase productivity.<br><br><br>
+Device to detect air gestures using IR sensors as external input to laptop to increase productivity using Scikit learn.<br><br><br>
 
 ---
 ## [Pokedex](https://github.com/mshah0686/pokedex)

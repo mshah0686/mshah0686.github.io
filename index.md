@@ -15,6 +15,7 @@ Digital image processing visualizer with multiple analysis tools using Numpy and
 ---
 ## [AirControl](https://github.com/mshah0686/AirControl)
 Device to integrate air gestures as external input to laptop to increase productivity.<br>
+<img align="right" width="100" height="100" src="images/aircontrol.jpg"/>
 
 ---
 ## [Pokedex](https://github.com/mshah0686/pokedex)
@@ -27,5 +28,3 @@ True-HEV description here<br>
 ---
 ## [Breezing-By](http://example.com/)
 Breezing-By description here<br>
-
-<img src="images/aircontrol.jpg" width="100" height="100"/>

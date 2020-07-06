@@ -1,6 +1,6 @@
 # Portfolio
 ---
-## [EyeMove](/sample_page)
+## [EyeMove](https://github.com/mshah0686/MacMusicControl/blob/master/README.md)
 Eye controlled wheelchair using electrooculography to provide mobility and quality of life for patients with paralysis.<br>
 *$20,000 scholarship, First Place and Best in Category at International Science Fair*<br>
 

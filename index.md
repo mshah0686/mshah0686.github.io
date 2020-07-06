@@ -28,14 +28,17 @@ Pokemon image recognition using Tensorflow and webscraping with Beautiful Soup.<
 ---
 <img align="left" style="padding-right:10px" width="175" height="175" src="images/truehev/pinned.png"/><br>
 ## [True-HEV](http://example.com/)
-True-HEV description here<br><br><br>
+Creating a true hybrid engine with electric solenoids integrated into an existing Internal Combustion Engine for lower pollution output. <br>
+*3rd place at International Science Fair*<br><br><br>
 
 ---
 <img align="left" style="padding-right:10px" width="175" height="175" src="images/breezingby/pinned.png"/><br>
 ## [Breezing-By](http://example.com/)
-Breezing-By description here<br><br><br>
+Improving wind turbines to capture energy at low wind speeds using Venturi effect. <br>
+*Silver Medal International Science Symposium*<br><br><br>
 
 ---
 <img align="left" style="padding-right:10px" width="175" height="175" src="images/keyboardlesskeyboard/pinned.png"/><br>
 ## [Keyboardless Keyboard](http://example.com/)
-Breezing-By description here<br><br><br>
+Accelerometers to create virtual typing experience. <br>
+*International Science Fair Qualifier*<br><br><br>

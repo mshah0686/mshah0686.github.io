@@ -35,7 +35,7 @@ Device to detect air gestures using IR sensors as external input to laptop to in
 <img align="left" style="padding-right:10px" width="175" height="175" src="images/pokedex.jpg"/><br>
 ## [Pokedex](https://github.com/mshah0686/pokedex)
 Pokemon image recognition using Tensorflow and webscraping with Beautiful Soup.<br>
-[CODE](https://github.com/mshah0686/pokedex)
+[CODE](https://github.com/mshah0686/pokedex)<br><br>
 
 ---
 <img align="left" style="padding-right:10px" width="175" height="175" src="images/truehev/pinned.png"/><br>

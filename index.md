@@ -1,8 +1,9 @@
 # Portfolio
 ---
+<img align="left" style="padding-right:10px" width="175" height="175" src="images/pokedex.jpg"/><br>
 ## [EyeMove](https://github.com/mshah0686/MacMusicControl/blob/master/README.md)
 Eye controlled wheelchair using electrooculography to provide mobility and quality of life for patients with paralysis.<br>
-*$20,000 scholarship, First Place and Best in Category at International Science Fair*<br>
+*$20,000 scholarship, First Place and Best in Category at International Science Fair*<br><br><br>
 
 ---
 <img align="left" style="padding-right:10px" width="175" height="175" src="images/macmusiccontrol.png"/><br>
@@ -10,8 +11,9 @@ Eye controlled wheelchair using electrooculography to provide mobility and quali
 Machine learning for gesture recognition using Hexiwear, a wearable IOT device, to control Spotify music.<br><br><br>
 
 ---
+<img align="left" style="padding-right:10px" width="175" height="175" src="images/pokedex.jpg"/><br>
 ## [ImageProcessor](https://github.com/mshah0686/ImageProcessor)
-Digital image processing visualizer with multiple analysis tools using Numpy and Tkinter.<br>
+Digital image processing visualizer with multiple analysis tools using Numpy and Tkinter.<br><br><br>
 
 ---
 <img align="left" style="padding-right:10px" width="175" height="175" src="images/aircontrol.jpg"/><br>
@@ -19,13 +21,16 @@ Digital image processing visualizer with multiple analysis tools using Numpy and
 Device to detect air gestures using IR sensors as external input to laptop to increase productivity using Scikit learn.<br><br><br>
 
 ---
+<img align="left" style="padding-right:10px" width="175" height="175" src="images/pokedex.jpg"/><br>
 ## [Pokedex](https://github.com/mshah0686/pokedex)
-Pokemon image recognition using Tensorflow and webscraping with Beautiful Soup.<br>
+Pokemon image recognition using Tensorflow and webscraping with Beautiful Soup.<br><br><br>
 
 ---
+<img align="left" style="padding-right:10px" width="175" height="175" src="images/pokedex.jpg"/><br>
 ## [True-HEV](http://example.com/)
-True-HEV description here<br>
+True-HEV description here<br><br><br>
 
 ---
+<img align="left" style="padding-right:10px" width="175" height="175" src="images/pokedex.jpg"/><br>
 ## [Breezing-By](http://example.com/)
-Breezing-By description here<br>
+Breezing-By description here<br><br><br>

@@ -1,9 +1,10 @@
 # Portfolio
 ---
 <img align="left" style="padding-right:10px" width="175" height="175" src="images/eyemove/pinned.png"/><br>
-## [EyeMove](https://github.com/mshah0686/MacMusicControl/blob/master/README.md)
+## [EyeMove](https://drive.google.com/file/d/1IlpRCeHtpIOetM61K2dKlG159A8ItXoe/view?usp=sharing)
 Eye controlled wheelchair using electrooculography to provide mobility and quality of life for patients with paralysis.<br>
-*$20,000 scholarship, First Place and Best in Category at International Science Fair*<br><br><br>
+*$20,000 scholarship, First Place and Best in Category at International Science Fair*<br>
+[VIDEO](https://drive.google.com/file/d/1fZwC75670PF3u-IC0tM1i57zqECTpdxU/view?usp=sharing) | [DATA](images/eyemove/images.pdf) | [REPORT](https://drive.google.com/file/d/1IlpRCeHtpIOetM61K2dKlG159A8ItXoe/view?usp=sharing)<br><br><br>
 
 ---
 <img align="left" style="padding-right:10px" width="175" height="175" src="images/macmusiccontrol.png"/><br>

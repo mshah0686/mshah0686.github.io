@@ -1,8 +1,8 @@
 # Personal Projects
 ---
 ## [EyeMove](/sample_page)
-Eye controlled wheelchair using electrooculography to provide mobility and quality of life for patients with paralysis.
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+Eye controlled wheelchair using electrooculography to provide mobility and quality of life for patients with paralysis.
 ---
 ## [MacMusic Control](https://github.com/mshah0686/MacMusicControl)
 Gesture recognition with machine learning on Hexiwear, a wearable IOT device, to control music.

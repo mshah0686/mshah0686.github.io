@@ -3,8 +3,8 @@ logo: "/images/profile2.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Engineer, Cyclist, and Motorcycle Enthusiast
   <br><br>
-  <a href="https://www.linkedin.com/in/malav-shah-11b532124/">LINKEDIN</a> <a | </a>
-  <a href="https://github.com/mshah0686?tab=repositories">GITHUB-</a> <a | </a>
+  <a href="https://www.linkedin.com/in/malav-shah-11b532124/">LINKEDIN</a> | 
+  <a href="https://github.com/mshah0686?tab=repositories">GITHUB</a> |
   <a href="https://github.com/mshah0686?tab=repositories">RESUME </a>
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here

@@ -1,18 +1,18 @@
 # Portfolio
 ---
-<img align="left" style="padding-right:10px" width="100" height="100" src="images/aircontrol.jpg"/><br>
 ## [EyeMove](/sample_page)
+<img align="left" style="padding-right:10px" width="100" height="100" src="images/aircontrol.jpg"/><br>
 Eye controlled wheelchair using electrooculography to provide mobility and quality of life for patients with paralysis.<br>
 *$20,000 scholarship, First Place and Best in Category at International Science Fair*<br>
 
 ---
-<img align="left" style="padding-right:10px" width="100" height="100" src="images/aircontrol.jpg"/><br>
 ## [MacMusic Control](https://github.com/mshah0686/MacMusicControl)
+<img align="left" style="padding-right:10px" width="100" height="100" src="images/aircontrol.jpg"/><br>
 Gesture recognition with machine learning on Hexiwear, a wearable IOT device, to control music.<br>
 
 ---
-<img align="left" style="padding-right:10px" width="100" height="100" src="images/aircontrol.jpg"/><br>
 ## [ImageProcessor](https://github.com/mshah0686/ImageProcessor)
+<img align="left" style="padding-right:10px" width="100" height="100" src="images/aircontrol.jpg"/><br>
 Digital image processing visualizer with multiple analysis tools using Numpy and Tkinter.<br>
 
 ---

@@ -20,7 +20,7 @@ Machine learning for gesture recognition using Hexiwear, a wearable IOT device, 
 [OVERVIEW](https://github.com/mshah0686/MacMusicControl/blob/master/README.md)
 
 ---
-<img align="left" style="padding-right:10px" width="175" height="175" src="images/pokedex.jpg"/><br>
+<img align="left" style="padding-right:10px" width="175" height="175" src="images/output.png"/><br>
 ## [ImageProcessor](https://github.com/mshah0686/ImageProcessor)
 Digital image processing visualizer with multiple analysis tools using Numpy and Tkinter.<br>
 [CODE](https://github.com/mshah0686/ImageProcessor)
